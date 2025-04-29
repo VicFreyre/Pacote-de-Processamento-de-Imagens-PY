@@ -1,0 +1,9 @@
+meu_pacote/
+│
+├── meu_pacote/
+│   ├── __init__.py
+│   └── exemplo.py
+│
+├── setup.py
+├── README.md
+└── LICENSE
